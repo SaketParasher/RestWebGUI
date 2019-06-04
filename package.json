@@ -1,0 +1,23 @@
+{
+  "name": "uptimemonitoring",
+  "version": "1.0.0",
+  "description": "/*------------------------------------------------------------------       ENDPOINT APIS     --------------------------------------------------------------------------*/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaketParasher/UptimeMonitoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaketParasher/UptimeMonitoring/issues"
+  },
+  "homepage": "https://github.com/SaketParasher/UptimeMonitoring#readme",
+  "dependencies": {
+    "nexmo": "2.4.1",
+    "twilio": "3.31.1"
+  }
+}
